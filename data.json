@@ -1,0 +1,26 @@
+[
+    {
+        "name":"Ghế Công Thái Học1",
+        "image":"product-1.png",
+        "price": 1000000,
+        "sale_price":999999
+    },
+    {
+        "name":"Ghế Công Thái Học 2",
+        "image":"product-2.png",
+        "price": 1000000,
+        "sale_price":999999
+    },
+    {
+        "name":"Ghế Công Thái Học 3 ",
+        "image":"product-3.png",
+        "price": 1000000,
+        "sale_price":999999
+    },
+    {
+        "name":"Ghế Công Thái Học 4 ",
+        "image":"product-2.png",
+        "price": 1000000,
+        "sale_price":999999
+    }
+]
